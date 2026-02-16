@@ -74,5 +74,5 @@ test.sh
 .docker/**
 !**/.gitkeep
 
-data
+/data
 .claude
